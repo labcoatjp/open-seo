@@ -119,7 +119,7 @@
     {
       "binding": "DB",
       "database_name": "open-seo",
-      "database_id": "37bee90a-e1aa-404f-b01e-b0d1d479bda1",
+      "database_id": "f4f9194e-9bba-4b4f-80d6-b73194274282",
       "migrations_dir": "drizzle",
     },
   ],
