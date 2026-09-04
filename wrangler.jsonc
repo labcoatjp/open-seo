@@ -108,11 +108,11 @@
   "kv_namespaces": [
     {
       "binding": "KV",
-      "id": "8b41e9049f0345de995a3ab811408bec",
+      "id": "af46b86502e94fd48f5bca828c6916af",
     },
     {
       "binding": "OAUTH_KV",
-      "id": "71ae7abe6e6b40d4a7306e51d42048c1",
+      "id": "36fb7e39ee434c158c4817a9a96942df",
     },
   ],
   "d1_databases": [
